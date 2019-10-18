@@ -1,0 +1,12 @@
+{
+    "name": "quete/twig",
+    "authors": [
+        {
+            "name": "Lilian Maurin",
+            "email": "lilianmaurin.wcs2019@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.12"
+    }
+}
